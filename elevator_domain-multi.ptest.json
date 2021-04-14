@@ -1,0 +1,15 @@
+{
+  "defaultDomain": "elevator_domain-multi.pddl",
+  "defaultOptions": "",
+  "cases": [
+    {
+      "problem": "elevator_problem1.pddl"
+    },
+    {
+      "problem": "elevator_problem2.pddl"
+    },
+    {
+      "problem": "elevator_problem-multi.pddl"
+    }
+  ]
+}
